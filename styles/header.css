@@ -1,0 +1,47 @@
+@font-face {
+  font-family: "montserrat";
+  src: url(../../assets/fonts/Montserrat-Bold.otf) format("opentype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+header {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  gap: 260px;
+}
+
+.logo {
+  width: 110px;
+  padding-left: 105px;
+  padding-top: 30px;
+}
+
+nav {
+  color: white;
+  display: flex;
+  font-size: 16px;
+  gap: 35px;
+  padding: 43px 50px 20px;
+}
+
+.nav-items {
+  font-family: 'montserrat';
+  font-weight: normal;
+  font-style: normal;
+}
+
+.nav-items:hover {
+  color: rgba(119, 57, 134, 0.966);
+}
+
+.right-icons {
+  width: 43px;
+}
+
+.right-icons-wrapper {
+  display: flex;
+  gap: 20px;
+}
+
