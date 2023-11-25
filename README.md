@@ -10,6 +10,7 @@
     • <a href="#descricao">Descrição</a>
     • <a href="#funcionalidades">Funcionalidades</a>
     • <a href="#funcionalidades a implementar">Funcionalidades a Implementar</a>
+    • <a href="#creditos">Créditos</a>
     • <a href="#tecnologias">Tecnologias</a>
     • <a href="#Desenvolvedora">Desenvolvedora</a>
 </p>
@@ -20,7 +21,7 @@
 
 <h2 id="como acessar"> :computer_mouse: Como acessar?</h2>
 
-Confira e utilize o projeto no <a href="https://danielle-luz.github.io/E-commerce-Navarro/">github pages</a>.
+Confira e utilize o projeto no <a href="https://izabella-nascimento.github.io/Timeless-Landing-Page/pages/homepage">github pages</a>.
 
 
 <h2 id="descricao">:pencil2: Descrição</h2>
