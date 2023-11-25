@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-   <img src="../Timeless/assets/imgs/Gif de Funcionamento do Timeless.gif" alt="gif mostrando o funcionamento da landing page" /> 
+   <img src="assets/imgs/Gif de Funcionamento do Timeless.gif" alt="gif mostrando o funcionamento da landing page" /> 
 </p>
 
 <h2 id="como acessar"> :computer_mouse: Como acessar?</h2>
