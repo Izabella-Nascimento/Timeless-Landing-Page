@@ -1,7 +1,7 @@
 <h1 align="center">Timeless</h1>
 
 <p align="center">
-    <img alt="Badge indicando que o projeto foi criado em Junho de 2023" src="https://img.shields.io/badge/Data%20de%20cria%C3%A7%C3%A3o-Junho%2F2023-blue">
+    <img alt="Badge indicando que o projeto foi criado em Junho de 2023" src="https://img.shields.io/badge/Data%20de%20cria%C3%A7%C3%A3o-Junho%2F2023-7BABCF">
     <img alt="Badge indicando que o status do projeto é 'Em Progresso'" src="https://img.shields.io/badge/Status-Em Progresso-yellow">
 </p>
 
